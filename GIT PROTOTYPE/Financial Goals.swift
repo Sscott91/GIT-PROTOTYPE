@@ -11,6 +11,8 @@ struct Financial_Goals: View {
     var body: some View {
         Text("Financial Goals")
             .font(.largeTitle)
+            .foregroundColor(Color.red)
+            
     }
 }
 
