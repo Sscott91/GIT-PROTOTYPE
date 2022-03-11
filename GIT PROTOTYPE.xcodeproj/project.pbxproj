@@ -11,6 +11,7 @@
 		F655B49327DA5D61007AA141 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F655B49227DA5D61007AA141 /* ContentView.swift */; };
 		F655B49527DA5D65007AA141 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F655B49427DA5D65007AA141 /* Assets.xcassets */; };
 		F655B49827DA5D65007AA141 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F655B49727DA5D65007AA141 /* Preview Assets.xcassets */; };
+		F6E49C0127DB9B3400BF39F7 /* Financial Goals.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E49C0027DB9B3400BF39F7 /* Financial Goals.swift */; };
 		F6FF09B027DA5FBA00FFD4F3 /* SCHOOLS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6FF09AF27DA5FBA00FFD4F3 /* SCHOOLS.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		F655B49227DA5D61007AA141 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F655B49427DA5D65007AA141 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F655B49727DA5D65007AA141 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F6E49C0027DB9B3400BF39F7 /* Financial Goals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Financial Goals.swift"; sourceTree = "<group>"; };
 		F6FF09AF27DA5FBA00FFD4F3 /* SCHOOLS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCHOOLS.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,9 +57,10 @@
 			children = (
 				F655B49027DA5D61007AA141 /* GIT_PROTOTYPEApp.swift */,
 				F655B49227DA5D61007AA141 /* ContentView.swift */,
+				F6FF09AF27DA5FBA00FFD4F3 /* SCHOOLS.swift */,
+				F6E49C0027DB9B3400BF39F7 /* Financial Goals.swift */,
 				F655B49427DA5D65007AA141 /* Assets.xcassets */,
 				F655B49627DA5D65007AA141 /* Preview Content */,
-				F6FF09AF27DA5FBA00FFD4F3 /* SCHOOLS.swift */,
 			);
 			path = "GIT PROTOTYPE";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				F655B49327DA5D61007AA141 /* ContentView.swift in Sources */,
 				F6FF09B027DA5FBA00FFD4F3 /* SCHOOLS.swift in Sources */,
 				F655B49127DA5D61007AA141 /* GIT_PROTOTYPEApp.swift in Sources */,
+				F6E49C0127DB9B3400BF39F7 /* Financial Goals.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
